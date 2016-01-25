@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Androidday41.iml" filepath="$PROJECT_DIR$/Androidday41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/color/color.iml" filepath="$PROJECT_DIR$/color/color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flybird/flybird.iml" filepath="$PROJECT_DIR$/flybird/flybird.iml" />
+    </modules>
+  </component>
+</project>
